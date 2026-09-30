@@ -19,21 +19,59 @@ I enjoy understanding **how attacks happen, how they appear in logs, and how def
 
 ---
 
-## 🛠️ Technical Skills
+## 🛡️ Technical Skills
 
-### Security Operations
+### 🔐 Security Operations
 
-`SIEM` `Incident Response` `Threat Detection` `Threat Intelligence` `Threat Hunting`
+<p align="left">
+  <img src="https://img.shields.io/badge/SIEM-0F172A?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Incident%20Response-B91C1C?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat%20Detection-7C3AED?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-0369A1?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-166534?style=for-the-badge&logo=search&logoColor=white" />
+</p>
 
-### Systems & Networking
+### 💻 Systems & Networking
 
-`Windows` `Building portfolio here`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,powershell" />
+<img src="https://img.shields.io/badge/LEARNING-FFA500?style=for-the-badge&logo=bookstack&logoColor=white" />
+</p>
 
-### Security Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Networking-1E40AF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Analysis-334155?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
-`[SIEM: Rapid7 / OpenVault / Wazuh (learning) / Splunk (learning]` `[EDR:SentinelOne` `[Nmap]` `[Wireshark]` `[Burp Suite]` `[Sysmon]`
+### 🧰 Security Tools
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Rapid7-FF4F00?style=for-the-badge&logo=rapid7&logoColor=white" />
+  <img src="https://img.shields.io/badge/SentinelOne-6D28D9?style=for-the-badge&logo=sentinelone&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenVault-475569?style=for-the-badge&logo=security&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LEARNING-FFA500?style=for-the-badge&logo=bookstack&logoColor=white" />
+<!-- TO BE ADDED
+  <img src="https://img.shields.io/badge/Wazuh-3B82F6?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0F172A?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1677FF?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sysmon-475569?style=for-the-badge&logo=microsoft&logoColor=white" />
+-->
+</p>
+
+
+### 📜 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA2D2D?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-0072CE?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
 
 ## 🔎 What I'm Currently Working On
 
